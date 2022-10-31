@@ -1,0 +1,2 @@
+# logicaDeProgramacao
+ Estudos python-UESPI
